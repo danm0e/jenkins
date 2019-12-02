@@ -1,0 +1,14 @@
+cobertura:1.15
+command-launcher
+cloudbees-folder:6.9
+dashboard-view
+embeddable-build-status:2.0.2
+github:1.29.5
+greenballs:1.15
+htmlpublisher:1.21
+jacoco:3.0.4
+jdk-tool
+pipeline-utility-steps:2.3.1
+structs
+trilead-api
+ws-cleanup:0.37
