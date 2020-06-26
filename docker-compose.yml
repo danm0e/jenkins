@@ -2,7 +2,7 @@ version: '3'
 services:
 
   jenkins:
-    build: './jenkins'
+    image: jenkins/jenkins:lts
     networks:
       - jenkins
     ports:
@@ -15,4 +15,3 @@ volumes:
 
 networks:
   jenkins:
-
